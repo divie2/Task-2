@@ -9,7 +9,7 @@ Version control is a system that tracks changes to a project's code or files ove
 
 1. GitHub: GitHub is a web-based platform that provides hosting for Git repositories. It offers additional collaboration features such as pull requests, issue tracking, and wikis. GitHub is a service built around Git to facilitate collaboration and sharing of code among developers.
 
-# 3. Gernatives:
+# 3. Three Alternatives:
 1. GitLab: GitLab is a web-based Git repository manager that provides source code management (SCM), continuous integration, and more, similar to GitHub.
 
 1. Bitbucket: Bitbucket, developed by Atlassian, is a Git and Mercurial code repository management solution. It offers features like pull requests, code review, and integration with other Atlassian tools.
