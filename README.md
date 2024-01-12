@@ -22,7 +22,7 @@ Version control is a system that tracks changes to a project's code or files ove
 1. git pull: Pull, on the other hand, fetches changes from a remote repository and automatically merges them into the current branch. It's a combination of git fetch and git merge.
 
 # 5. Git rebase
-Git rebase is a command used to modify the commit history of a branch. It integrates changes from one branch into another by moving or combining commits. It is often used to maintain a linear and clean commit history. The command is: 'git rebase <base_branch>'
+Git rebase is a command used to modify the commit history of a branch. It integrates changes from one branch into another by moving or combining commits. It is often used to maintain a linear and clean commit history. The command is: `git rebase <base_branch> `
 
 # 6. Git Cherry-pick:
-Git cherry-pick is a command used to apply a specific commit from one branch to another. It allows you to pick individual commits and apply them to a different branch. The command is: 'git cherry-pick <commit-hash>'   
+Git cherry-pick is a command used to apply a specific commit from one branch to another. It allows you to pick individual commits and apply them to a different branch. The command is: `git cherry-pick <commit-hash>`   
